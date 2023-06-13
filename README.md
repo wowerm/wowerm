@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R, SQL, PHP
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me :wower.michal19@gmail.com
-- my favourite colour: black
+- my favourite colour: blue
 - favourite film: The Lord of the Rings
 
 <!---
