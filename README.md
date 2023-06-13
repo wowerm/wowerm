@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me :wower.michal19@gmail.com
 - my favourite colour: black
+- favourite film: The Lord of the Rings
 
 <!---
 wowerm/wowerm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
